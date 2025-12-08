@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "name": "JustX",
+  "description": "JustX, your friendly assistant!",
+  "logo": "https://www.instagram.com/p/DR_8AxeDJPx/?igsh=eTF6eXh3Yng0eDNi",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'JUST-BOT:~' or 'JUST-X:~'.",
     "value": "",
     "required": false
   }
